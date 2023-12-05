@@ -4,6 +4,8 @@
 
 **lorys.shop** is a web application developed on the Shopify platform, catering to the needs of our esteemed organic food SME. This platform is designed to provide a seamless and user-friendly experience for customers looking to explore and purchase organic products.
 
+<img src="https://github.com/manueldinisjunior/lorys.shop/raw/main/landing-page.jpeg" alt="Lorys Shop Landing Page">
+
 ## Author
 
 - **Manuel Dinis Junior**
